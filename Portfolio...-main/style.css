@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.navbar {
+    border-bottom: 1px solid black;
+}
+
+.imgProfileAcc {
+    width: 150px;
+}
+
+#Portfolio {
+    display: flex;
+    margin: 50px;
+}
+
+#accueil {
+    min-height: 750px;
+}
+
+.imgServices {
+    width: 120px;
+    height: 120px;
+}
+
+.Envoyer {
+    position: relative;
+    top: 15px;
+    font-size: 50px;
+}
